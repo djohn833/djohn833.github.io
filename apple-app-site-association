@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “8KERUKNX8N.com.djohnson.BluetoothControl",
+        "paths": [
+          "/BluetoothControl/*"
+        ]
+      }
+    ]
+  }
+}
